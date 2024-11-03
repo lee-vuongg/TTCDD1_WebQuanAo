@@ -2,7 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\lqvwwebbanhang",
-    "\\lqvwwebbanhang\\Models"
+    "\\lqvwwebbanhang\\Controllers",
+    "\\lqvwwebbanhang\\Models",
+    "\\lqvwwebbanhang\\Properties",
+    "\\lqvwwebbanhang\\Views",
+    "\\lqvwwebbanhang\\Views\\CHI_TIET_DON_HANG",
+    "\\lqvwwebbanhang\\Views\\KHACH_HANG",
+    "\\lqvwwebbanhang\\Views\\Shared"
   ],
   "SelectedNode": "\\lqvwwebbanhang\\lqvwwebbanhang.sln",
   "PreviewInSolutionExplorer": false
